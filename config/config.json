@@ -1,21 +1,21 @@
 {
   "development": {
-    "username": "anuragmy",
-    "password": "Anurag123$",
-    "database": "api_development",
+    "username": "root",
+    "password": null,
+    "database": "database_development",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
   "test": {
-    "username": "anuragmy",
-    "password": "Anurag123$",
+    "username": "root",
+    "password": null,
     "database": "database_test",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
   "production": {
-    "username": "anuragmy",
-    "password": "Anurag123$",
+    "username": "root",
+    "password": null,
     "database": "database_production",
     "host": "127.0.0.1",
     "dialect": "mysql"
